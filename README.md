@@ -15,3 +15,5 @@ Current version of the program takes a while to close the steam process, this ca
  ``Helpers\Helpers.cpp -> line: 25`` (small todo for me i guess)
  
 If you want to change how the program recognizes account lists, change ``DEFAULT_ACCOUNT_FILE_NAME`` located in ``Helpers\Helpers.h -> line: 12``
+
+The program requires Admin privledges due to the usage of ``OpenProcess``, ``TerminateProcess`` etc. (used for killing the steam process, i dont like using ``system()``)
