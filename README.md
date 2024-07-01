@@ -13,8 +13,7 @@ Very lightweight steam account switcher, useful for quick switching alt accounts
  ![AccountManager_Wt1gX2g7Fe](https://github.com/43ongah9aihtdgoihdsgh32089oeh/LightSteamLogin/assets/138796100/7cc49303-6ba4-4c1c-bce7-650c61ae7d09)
 
 8. Select the option ``Login`` in this instance, 1
- ![AccountManager_WgC0l1kza2](https://github.com/43ongah9aihtdgoihdsgh32089oeh/LightSteamLogin/assets/138796100/61b1cf8c-16a4-47da-a85a-fdcde50fb4fc)
-
+![AccountManager_WgC0l1kza2](https://github.com/43ongah9aihtdgoihdsgh32089oeh/LightSteamLogin/assets/138796100/61b1cf8c-16a4-47da-a85a-fdcde50fb4fc)
 10. Now select one of your accounts by selecting it by number next to it (check picture above)
 11. The program will now kill the steam process and automatically login into your selected account
 
