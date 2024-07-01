@@ -7,7 +7,7 @@ Very lightweight steam account switcher, useful for quick switching alt accounts
 3. Paste in/Add your accounts in the format of ``Username``**:**``Password``
 4. Launch the exe, and you should see the program saying it detected your accounts
 5. Select the option ``Login`` in this instance, 1
-6. Now select one of your accounts by selecting it by number next to it (check picture above)
+6. Now select one of your accounts by selecting it by number next to it
 7. The program will now kill the steam process and automatically login into your selected account
 
 # Notice
