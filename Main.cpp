@@ -84,8 +84,7 @@ static void HandleAccountSelection( CInputHandler* Input )
 static void RenderOptions( CHelpers* Helper )
 {
 	Helper->PrintColor( L"0 -> Refresh accounts\n", WHITE );
-	Helper->PrintColor( L"1 -> Add account\n", WHITE );
-	Helper->PrintColor( L"2 -> Login\n", WHITE );
-	Helper->PrintColor( L"3 -> Exit\n", WHITE );
+	Helper->PrintColor( L"1 -> Login\n", WHITE );
+	Helper->PrintColor( L"2 -> Exit\n", WHITE );
 	Helper->PrintColor( L"\n", WHITE );
 }
