@@ -13,4 +13,5 @@ Very lightweight steam account switcher, useful for quick switching alt accounts
 # Notice
 Current version of the program takes a while to close the steam process, this can be fixed by replacing how the process is actually being found in the code
  ``Helpers\Helpers.cpp -> line: 25`` (small todo for me i guess)
+ 
 If you want to change how the program recognizes account lists, change ``DEFAULT_ACCOUNT_FILE_NAME`` located in ``Helpers\Helpers.h -> line: 12``
